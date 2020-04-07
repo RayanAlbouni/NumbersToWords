@@ -1,5 +1,5 @@
 
-# This Service converts currency (dollars) from numbers into word presentation in American English only.
+# This Service converts currency (dollars) from numbers into word presentation in English.
 
 The algorithm of converting the number to words like:
 1) validate the input
