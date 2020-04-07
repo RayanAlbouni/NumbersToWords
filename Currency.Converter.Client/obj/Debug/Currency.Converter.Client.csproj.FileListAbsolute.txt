@@ -12,3 +12,6 @@ C:\Users\ra\Documents\Visual Studio 2015\Projects\__COPY\CodingTask\Currency.Con
 C:\Users\ra\Documents\Visual Studio 2015\Projects\__COPY\CodingTask\Currency.Converter.Client\obj\Debug\Currency.Converter.Client.csproj.GenerateResource.Cache
 C:\Users\ra\Documents\Visual Studio 2015\Projects\__COPY\CodingTask\Currency.Converter.Client\obj\Debug\Currency.Converter.Client.exe
 C:\Users\ra\Documents\Visual Studio 2015\Projects\__COPY\CodingTask\Currency.Converter.Client\obj\Debug\Currency.Converter.Client.pdb
+C:\Users\ra\Source\Repos\RayanAlbouni\NumbersToWords\Currency.Converter.Client\bin\Debug\Currency.Converter.Client.exe.config
+C:\Users\ra\Source\Repos\RayanAlbouni\NumbersToWords\Currency.Converter.Client\obj\Debug\Currency.Converter.Client.exe
+C:\Users\ra\Source\Repos\RayanAlbouni\NumbersToWords\Currency.Converter.Client\obj\Debug\Currency.Converter.Client.pdb
